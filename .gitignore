@@ -1,0 +1,6 @@
+._*
+.~lock.*
+vendor
+tests/_log/
+composer.phar
+codecept.phar

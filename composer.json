@@ -1,0 +1,23 @@
+{
+    "name": "orbisnull/localcache",
+    "description": "php cache in apc, xcache files, etc",
+    "license": "LGPL-3.0+",
+
+    "minimum-stability": "dev",
+
+    "autoload": {
+        "psr-0": {
+            "LocalCache": "src/"
+        },
+        "classmap": [
+            "./Module.php"
+        ]
+    },
+
+    "repositories": [
+    ],
+
+    "require": {
+        "php": ">=5.4.0"
+    }
+}

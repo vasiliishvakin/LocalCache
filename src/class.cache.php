@@ -1,4 +1,6 @@
 <?php
+
+die('Its old! Do not use...');
 /**
  * Parts of this code are based on and/or adapted from original work by Iain Cambridge (http://icambridge.me/)
  */
